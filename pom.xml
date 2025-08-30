@@ -19,6 +19,7 @@
 	<modules>
 		<module>sample-microservice-eureka-naming-server</module>
 		<module>sample-microservice-hello</module>
+		<module>sample-microservice-messenger</module>
 	</modules>
 	
 	<dependencies>
